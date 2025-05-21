@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Rishi Kumar
+## 👋 Hello Coder , Rishi this side ;
 
 🎓 B.Tech CSE | 2023–2027 Batch  
 🧠 AI/ML Enthusiast | Java Programmer | Tech Mentor  
