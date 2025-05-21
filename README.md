@@ -13,8 +13,7 @@
 - 🌱 I’m learning **Spring Boot, Advanced Java, and Deep Learning**
 - 💡 I'm exploring **Image-to-Image Translation, GANs, and RAG models**
 - 🧑‍🏫 I conduct **coding mentorship sessions** and help juniors with internships & placements
-- 💬 Ask me about **Java, Python, Flask, AI/ML, DSA, and GitHub Optimization**
-- 🎯 90-Day DSA Challenge – **Day 50+ Completed** 💪
+- 💬 Ask me about **Java, Python, Flask, AI/ML, DSA, and GitHub Optimization** 
 - 🌐 I love building **real-world AI applications** and guiding college communities
 
 ---
