@@ -1,9 +1,10 @@
 ## 👋 Hello Coder , Rishi this side ;
 
 🎓 B.Tech CSE | 2023–2027 Batch  
-🧠 AI/ML Enthusiast | Java Programmer | Tech Mentor  
-🚀 Founder – The Coding Planet | Tech Lead – Infinity Coders Club  
 🧑‍🎓 **Microsoft Learn Student Ambassador (Beta Level)** 🌐
+🧠 AI/ML Enthusiast | Java Programmer | Tech Mentor  
+🚀 Founder | Tech Lead  
+
 
 ---
 
