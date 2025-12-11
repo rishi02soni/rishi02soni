@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Arena&fontSize=68&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+
 ## 👋 Hello Coder , Rishi this side ;
 
 🎓 B.Tech CSE | 2023–2027 Batch  
@@ -109,7 +114,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishi02soni.rishi02soni&"  />
+</div>
 
+###
 
 
 
@@ -126,24 +135,10 @@
 
 ---
 
-### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02soni&layout=compact&theme=radical)
-
----
+-
 
 ### 🧠 Certifications
 
