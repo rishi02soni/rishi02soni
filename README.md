@@ -1,32 +1,51 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Arena&fontSize=68&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Welcome%20Coders%20!!%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
+###
 
-## 👋 Hello Coder , Rishi this side ;
+## Rishi here — fast mind, clean code, zero noise.;
 
-🎓 B.Tech CSE | 2023–2027 Batch  
 🧑‍🎓 **Microsoft Learn Student Ambassador (Beta Level)** 🌐
 
-🧠 Java Programmer | Tech Mentor | Building Rentlessly
-🚀 Founder | Tech Lead  
+🧠 Founder | Tech Mentor |
+ Building Rentlessly 
 
 
 ---
 
-### 🌟 About Me
+About Me
 
-- 🔭 I’m currently working on **Smart Education Projects & AI-based Tools**
-- 🌱 I’m learning **Spring Boot, Advanced Java and RAG **
-- 💡 I'm exploring **Various new technologies and tools**
-- 🧑‍🏫 I conduct **coding mentorship sessions** and help juniors with internships & placements
-- 💬 Ask me about **Java, Python, DSA,System Design and GitHub Optimization** 
-- 🌐 I love building **real-world AI applications** and guiding college communities
+- 🔭 Building AI + EduTech projects
+- 🌱 Learning Spring Boot, Java & RAG
+- 💡 Exploring tools that make tech better
+- 🧑‍🏫 Mentoring juniors in coding
+- 💬 Java • Python • DSA • System Design
+- 🌐 Creating impact with AI apps
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhldTBzbG9nY2R3YWc1NXR4M3owbGh3dHVmODQ0YXR3cXBuOTJwbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
+</p>
 
 
-<h2 align="left">I code with</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###
 
@@ -112,13 +131,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishi02soni.rishi02soni&"  />
-</div>
 
-###
 
 
 
@@ -138,12 +152,9 @@
 
 
 
--
-
 ### 🧠 Certifications
 
-- Microsoft Azure Fundamentals ☁️  
-- **Microsoft Learn Student Ambassador (Beta Level)** 🎓  
+- Microsoft Azure Fundamentals ☁️   
 - Generative AI Certification 🧠  
 - Machine Learning Certification 🤖  
 - Cloud Computing Basics 🌩️  
