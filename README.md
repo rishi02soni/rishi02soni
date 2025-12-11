@@ -132,11 +132,6 @@ About Me
 </div>
 
 
-
-
-
-
-
 ###
 
 ###
@@ -162,6 +157,12 @@ About Me
 - Civil Site Management 🎓
 
 ---
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVydmo1YjJ2MnNnZ25nMWtqYzdmOTJqdnk5dTh1NzQ1ZXVlM3pkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="300">
+  
+
+</p>
+
 
 ### ✨ Fun Fact
 
