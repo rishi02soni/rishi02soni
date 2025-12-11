@@ -3,7 +3,7 @@
 🎓 B.Tech CSE | 2023–2027 Batch  
 🧑‍🎓 **Microsoft Learn Student Ambassador (Beta Level)** 🌐
 
-🧠 AI/ML Enthusiast | Java Programmer | Tech Mentor  
+🧠 Java Programmer | Tech Mentor | Building Rentlessly
 🚀 Founder | Tech Lead  
 
 
@@ -12,10 +12,10 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **Smart Education Projects & AI-based Tools**
-- 🌱 I’m learning **Spring Boot, Advanced Java, and Deep Learning**
-- 💡 I'm exploring **Image-to-Image Translation, GANs, and RAG models**
+- 🌱 I’m learning **Spring Boot, Advanced Java and RAG **
+- 💡 I'm exploring **Various new technologies and tools**
 - 🧑‍🏫 I conduct **coding mentorship sessions** and help juniors with internships & placements
-- 💬 Ask me about **Java, Python, Flask, AI/ML, DSA, and GitHub Optimization** 
+- 💬 Ask me about **Java, Python, DSA,System Design and GitHub Optimization** 
 - 🌐 I love building **real-world AI applications** and guiding college communities
 
 ---
