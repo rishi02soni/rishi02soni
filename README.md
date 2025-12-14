@@ -4,7 +4,7 @@
 
 ###
 
-## Rishi here — fast mind, clean code, zero noise.;
+## Rishi here — fast mind, clean code, zero noise ;
 
 🧑‍🎓 **Microsoft Learn Student Ambassador (Beta Level)** 🌐
 
