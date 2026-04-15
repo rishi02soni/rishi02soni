@@ -6,7 +6,7 @@
 
 ## Rishi here — fast mind, clean code, zero noise ;
 
-🧑‍🎓 **Microsoft Learn Student Ambassador (Beta Level)** 🌐
+🧑‍🎓 **Microsoft Student Ambassador (Associate)** 🌐
 
 🧠 Founder | Tech Mentor |
  Building Rentlessly 
