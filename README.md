@@ -194,3 +194,12 @@
 I'm more than just code – I build leaders and communities. 💙  
 Let’s grow together — one line of code at a time.
 
+
+## 🚀 Tech Journey
+
+![AI Builder](https://img.shields.io/badge/AI%20Projects-Active-blue?style=for-the-badge&logo=openai)
+![Learning](https://img.shields.io/badge/RAG%20%26%20AI%20Agents-Learning-purple?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend%20Systems-Scaling-green?style=for-the-badge)
+![Mentor](https://img.shields.io/badge/Mentorship-Active-orange?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-DSA%20%7C%20System%20Design-red?style=for-the-badge)
+![Impact](https://img.shields.io/badge/AI%20Impact-Building-success?style=for-the-badge)
