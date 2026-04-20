@@ -19,10 +19,11 @@
 
 ---
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Express](https://img.shields.io/badge/Express.js-Framework-black)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=REST%20API&fontSize=40&fontColor=00F7FF&animation=twinkling" />
+</p>
+
+<h3 align="center">⚡ Scalable Backend • Clean Architecture • Production Ready</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
@@ -164,7 +165,7 @@ About Me
 - Machine Learning Certification 🤖  
 - Cloud Computing Basics 🌩️  
 - Java Bootcamp + DSA Completion ☕  
-- Civil Site Management 🎓
+
 
 ---
 <p align="center">
