@@ -9,7 +9,6 @@
 </h1>
 
 
-
 ## Rishi here — fast mind, clean code, zero noise ;
 
 🧑‍🎓 **Microsoft Student Ambassador (Associate)** 🌐
@@ -20,7 +19,10 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-0b4d7e8f-1c9f-4f3e-8b0c-82cde3e6c6c3.gif" width="100%">
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express](https://img.shields.io/badge/Express.js-Framework-black)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
