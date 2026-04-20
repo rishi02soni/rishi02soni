@@ -124,6 +124,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
+---
+About Me
+
+- 🔭 Building AI + EduTech projects
+- 🌱 Learning Spring Boot, Java & RAG
+- 💡 Exploring tools that make tech better
+- 🧑‍🏫 Mentoring juniors in coding
+- 💬 Java • Python • DSA • System Design
+- 🌐 Creating impact with AI apps
 
 ###
 
