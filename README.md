@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+!!" />
 </h1>
 
-## 📈 Contribution Graph
-
-[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night)](https://github.com/rishi02soni)
 
 
 ## Rishi here — fast mind, clean code, zero noise ;
@@ -170,12 +167,14 @@ About Me
 ---
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVydmo1YjJ2MnNnZ25nMWtqYzdmOTJqdnk5dTh1NzQ1ZXVlM3pkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="300">
-  
-
 </p>
 
-## 📊 GitHub Stats
+## 📈 Contribution Graph
 
+[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night)](https://github.com/rishi02soni)
+
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02soni&theme=tokyonight" />
