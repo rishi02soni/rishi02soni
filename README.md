@@ -194,12 +194,6 @@
 I'm more than just code – I build leaders and communities. 💙  
 Let’s grow together — one line of code at a time.
 
-
-## 🚀 Tech Journey
-
-![AI Builder](https://img.shields.io/badge/AI%20Projects-Active-blue?style=for-the-badge&logo=openai)
-![Learning](https://img.shields.io/badge/RAG%20%26%20AI%20Agents-Learning-purple?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend%20Systems-Scaling-green?style=for-the-badge)
-![Mentor](https://img.shields.io/badge/Mentorship-Active-orange?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-DSA%20%7C%20System%20Design-red?style=for-the-badge)
-![Impact](https://img.shields.io/badge/AI%20Impact-Building-success?style=for-the-badge)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+%26+EduTech+Solutions;Exploring+RAG+%26+AI+Agents;Backend+%26+System+Design+Enthusiast;Mentor+%26+Tech+Community+Lead;Creating+Impact+with+AI+🚀" />
+</h1>
