@@ -195,5 +195,5 @@ I'm more than just code – I build leaders and communities. 💙
 Let’s grow together — one line of code at a time.
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+%26+EduTech+Solutions;Exploring+RAG+%26+AI+Agents;Backend+%26+System+Design+Enthusiast;Mentor+%26+Tech+Community+Lead;Creating+Impact+with+AI+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Mentor+ | + Founder + | + Building Relentlessly;Always+learning,+always + shipping.;Let’s+create + impact + together." />
 </h1>
