@@ -5,8 +5,14 @@
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+!!" />
 </h1>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=REST%20API%20Project&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ## Rishi here — fast mind, clean code, zero noise ;
 
