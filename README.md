@@ -9,9 +9,11 @@
 </h1>
 
 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=REST%20API%20Project&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ## Rishi here — fast mind, clean code, zero noise ;
