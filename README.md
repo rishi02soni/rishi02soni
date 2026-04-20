@@ -19,9 +19,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=180&section=header&text=REST%20API&fontSize=40&fontColor=00F7FF&animation=twinkling" />
-</p>
+
 
 <h3 align="center">⚡ Scalable Backend • Clean Architecture • Production Ready</h3>
 
