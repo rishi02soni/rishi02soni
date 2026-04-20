@@ -14,14 +14,7 @@
 
 ---
 
-About Me
 
-- 🔭 Building AI + EduTech projects
-- 🌱 Learning Spring Boot, Java & RAG
-- 💡 Exploring tools that make tech better
-- 🧑‍🏫 Mentoring juniors in coding
-- 💬 Java • Python • DSA • System Design
-- 🌐 Creating impact with AI apps
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
