@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+!!" />
 </h1>
 
+## 📈 Contribution Graph
 
+[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
 
 
 ## Rishi here — fast mind, clean code, zero noise ;
