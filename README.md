@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+REST+API+Project;Built+with+Node.js+%2B+Express+%2B+MongoDB;Clean+%26+Scalable+Backend+🚀" />
+</h1>
+
 ## Rishi here — fast mind, clean code, zero noise ;
 
 🧑‍🎓 **Microsoft Student Ambassador (Associate)** 🌐
