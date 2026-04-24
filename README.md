@@ -139,9 +139,7 @@
 💬 Focus: **Problem Solving • System Design • Backend Dev**  
 🌐 Creating **impact with AI apps & collaboration**  
 
----
 
-###
 
 ###
 
