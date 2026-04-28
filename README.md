@@ -132,8 +132,8 @@
 ---
 ## About Me
 
-✨ 🔭 Building **AI-powered & EduTech solutions**  
-🌱 Exploring **RAG, AI Agents & scalable backend systems**  
+ 🔭 Building **AI-powered & EduTech solutions**  
+🌱 Exploring **scalable backend systems and AI Integration**  
 💡 Solving **real-world problems with tech**  
 🧑‍🏫 Mentoring & leading **tech communities**  
 💬 Focus: **Problem Solving • System Design • Backend Dev**  
