@@ -11,7 +11,7 @@
 
 ## Rishi here — fast mind, clean code, zero noise ;
 
-🧑‍🎓 **Microsoft Student Ambassador (Associate)** 🌐
+🧑‍🎓 **Senior Microsoft Student Ambassador ** 🌐
 
 🧠 Founder | Tech Mentor |
  Building Rentlessly 
