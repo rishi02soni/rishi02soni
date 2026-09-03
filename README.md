@@ -179,11 +179,6 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi02soni&theme=tokyonight" width="48%" alt="Most Used Languages"/>
 </p>
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-
 
 ## 📊 GitHub Contributor Overview
 
