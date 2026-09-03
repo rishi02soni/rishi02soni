@@ -170,13 +170,6 @@
 
 [![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night)](https://github.com/rishi02soni)
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02soni&theme=tokyonight" />
-</p>
-
 ## 🔥 GitHub Activity
 
 <p align="center">
