@@ -183,7 +183,4 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=rishi02soni&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-</p>
-
-
+ 
