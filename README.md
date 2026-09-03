@@ -158,9 +158,13 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVydmo1YjJ2MnNnZ25nMWtqYzdmOTJqdnk5dTh1NzQ1ZXVlM3pkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="300">
 </p>
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Activity
 
-[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night)](https://github.com/rishi02soni)
+<p align="center">
+  <a href="https://github.com/rishi02soni">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishi%20Soni's%20GitHub%20Contribution%20Graph" alt="Rishi Soni's GitHub Contribution Graph"/>
+  </a>
+</p>
 
 ## 🔥 GitHub Activity
 
