@@ -167,6 +167,18 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
   </a>
 </p>
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishi02soni&theme=tokyonight" width="95%" alt="GitHub Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishi02soni&theme=tokyonight" width="48%" alt="Repositories by Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi02soni&theme=tokyonight" width="48%" alt="Most Used Languages"/>
+</p>
+
 ## 🔥 GitHub Activity
 
 <p align="center">
