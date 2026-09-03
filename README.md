@@ -183,4 +183,34 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" width="49%" alt="GitHub Stats"/>
- 
+
+
+## 📊 GitHub Contributor Overview
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&hide_border=true&theme=tokyonight" width="400"/>
+      <br/>
+      <b>📈 GitHub Stats</b>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=rishi02soni&theme=tokyonight&hide_border=true" width="400"/>
+      <br/>
+      <b>🔥 Contribution Streak</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi02soni&layout=compact&hide_border=true&theme=tokyonight" width="400"/>
+      <br/>
+      <b>💻 Top Languages</b>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=rishi02soni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=2&column=3" width="400"/>
+      <br/>
+      <b>🏆 GitHub Achievements</b>
+    </td>
+  </tr>
+</table>
