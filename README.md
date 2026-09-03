@@ -131,12 +131,14 @@
 ---
 ## About Me
 
- 🔭 Building **AI-powered & EduTech solutions**  
-🌱 Exploring **scalable backend systems and AI Integration**  
-💡 Solving **real-world problems with tech**  
-🧑‍🏫 Mentoring & leading **tech communities**  
-💬 Focus: **Problem Solving • System Design • Backend Dev**  
-🌐 Creating **impact with AI apps & collaboration**  
+🔭 Building **AI-powered products & scalable backend systems**
+🌱 Exploring **System Design • Cloud • Distributed Systems • AI**
+💻 Turning **real-world problems into production-ready solutions**
+🌍 **Open Source Contributor** & Microsoft Student Ambassador
+🧑‍🏫 Building communities, mentoring developers & sharing knowledge
+🎯 Focus: **DSA • Backend Engineering • System Design • Open Source**
+🤝 Open to **collaboration, open source & impactful projects**
+
 
 
 
@@ -150,11 +152,13 @@
 
 ### 🧠 Certifications
 
-- Microsoft Azure Fundamentals ☁️   
-- Generative AI Certification 🧠  
-- Machine Learning Certification 🤖  
-- Cloud Computing Basics 🌩️  
-- Java Bootcamp + DSA Completion ☕  
+- Microsoft Azure Fundamentals
+- Microsoft AI Fundamentals
+- Microsoft DevOps  
+- Generative AI Certification 
+- Machine Learning Certification 
+- Cloud Computing Basics 
+- Java Bootcamp + DSA Completion 
 
 
 ---
