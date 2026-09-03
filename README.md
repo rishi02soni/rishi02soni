@@ -179,9 +179,13 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi02soni&theme=tokyonight" width="48%" alt="Most Used Languages"/>
 </p>
 
-## 🔥 GitHub Activity
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi02soni&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishi02soni&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=rishi02soni&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishi02soni&theme=tokyonight" width="98%" alt="GitHub Contribution Graph"/>
 </p>
