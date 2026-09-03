@@ -160,9 +160,10 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
 
 ## 📈 GitHub Contribution Activity
 
+
 <p align="center">
   <a href="https://github.com/rishi02soni">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi02soni&theme=tokyo-night&hide_border=true&area=true&custom_title=Rishi%20Soni's%20GitHub%20Contribution%20Graph" alt="Rishi Soni's GitHub Contribution Graph"/>
+    <img src="https://ghchart.rshah.org/rishi02soni" alt="Rishi Soni's GitHub Contribution Graph" />
   </a>
 </p>
 
