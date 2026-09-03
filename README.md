@@ -186,6 +186,4 @@ Building at the intersection of **AI, backend engineering, and cloud**, with a f
   <img src="https://streak-stats.demolab.com?user=rishi02soni&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishi02soni&theme=tokyonight" width="98%" alt="GitHub Contribution Graph"/>
-</p>
+
