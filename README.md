@@ -9,7 +9,7 @@
 </h1>
 
 
-## Rishi here — fast mind, clean code, zero noise ;
+## Rishi here — Fast mind, Clean code, Zero noise ;
 
 🧑‍🎓``` Senior Microsoft Student Ambassador  ```
 
