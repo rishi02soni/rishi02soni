@@ -130,15 +130,7 @@
 
 ---
 ## About Me
-
-🔭 Building **AI-powered products & scalable backend systems**
-🌱 Exploring **System Design • Cloud • Distributed Systems • AI**
-💻 Turning **real-world problems into production-ready solutions**
-🌍 **Open Source Contributor** & Microsoft Student Ambassador
-🧑‍🏫 Building communities, mentoring developers & sharing knowledge
-🎯 Focus: **DSA • Backend Engineering • System Design • Open Source**
-🤝 Open to **collaboration, open source & impactful projects**
-
+```Building at the intersection of **AI, backend engineering, and cloud**, with a focus on turning real-world problems into scalable, production-ready solutions. As an **Open Source Contributor and Microsoft Student Ambassador**, I enjoy building, learning, mentoring developers, and contributing to the community. Currently exploring **System Design, Distributed Systems, DSA, AI, and Open Source** — always looking to collaborate, build meaningful projects, and create real impact. ```
 
 
 
