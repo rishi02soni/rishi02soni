@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/rishi02soni/rishi02soni/main/assets/microsoft.gif" width="150">
 </p>
 
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Welcome%20Coders%20!!%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
