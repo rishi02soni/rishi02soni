@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://media.tenor.com/...](https://www.pinterest.com/pin/microsoft-logo-animation-design--12666442693779172/)" width="150">
+  <img src="https://www.pinterest.com/pin/microsoft-logo-animation-design--12666442693779172/" width="150">
 </p>
 
 <div>
