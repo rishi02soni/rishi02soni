@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishi02soni/rishi02soni/main/assets/microsoft.gif" width="150">
+  <img src="https://raw.githubusercontent.com/rishi02soni/rishi02soni/assets/microsoft.gif" width="150">
 </p>
 
 <div>
