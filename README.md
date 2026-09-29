@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120">
+  <img src="https://raw.githubusercontent.com/rishi02soni/rishi02soni/main/assets/microsoft.gif" width="150">
 </p>
-
 
 
 <div>
