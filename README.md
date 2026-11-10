@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/microsoft_logo_readme.gif" width="150" alt="Microsoft Logo"/>
+  <img src="assets/Microsoftsoft.gif" width="150" alt="Microsoft Logo"/>
 </p>
 
 
