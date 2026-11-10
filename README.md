@@ -9,9 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+!!" />
 </h1>
 
-<p align="center">
-  <img src="assets/Microsoftsoft.gif" width="150" alt="Microsoft Logo"/>
-</p>
 
 
 ## Rishi here — Fast mind, Clean code, Zero noise ;
