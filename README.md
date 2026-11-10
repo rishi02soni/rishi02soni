@@ -9,6 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Coding+Arena+;Be+A+Force+For+Good;Let's+Collab+And+Build+!!" />
 </h1>
 
+<p align="center">
+  <img src="assets/microsoft_logo_readme.gif" width="150" alt="Microsoft Logo"/>
+</p>
+
 
 ## Rishi here — Fast mind, Clean code, Zero noise ;
 
@@ -26,20 +30,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhldTBzbG9nY2R3YWc1NXR4M3owbGh3dHVmODQ0YXR3cXBuOTJwbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
